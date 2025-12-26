@@ -1,5 +1,6 @@
 # Data-dashboard-excel
-📊 SQL + Excel Data Analysis Project
+pizza sales dashboard
+
 
 This project performs end-to-end data analysis using SQL for data extraction and cleaning, and Excel for visualization and dashboard reporting.
 
